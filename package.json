@@ -1,0 +1,12 @@
+{
+  "name": "tasktrack-api",
+  "version": "1.0.0",
+  "description": "TaskTrack API for Docker & Git Lab Assignment",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
